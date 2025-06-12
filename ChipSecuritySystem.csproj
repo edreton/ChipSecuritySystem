@@ -47,6 +47,7 @@
     <Compile Include="ColorChip.cs" />
     <Compile Include="Constants.cs" />
     <Compile Include="Program.cs" />
+    <Compile Include="SecuritySystem.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
