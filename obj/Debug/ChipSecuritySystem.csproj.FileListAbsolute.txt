@@ -1,7 +1,0 @@
-D:\Programacion\Test CentralTransport\ChipSecuritySystem\bin\Debug\ChipSecuritySystem.exe.config
-D:\Programacion\Test CentralTransport\ChipSecuritySystem\bin\Debug\ChipSecuritySystem.exe
-D:\Programacion\Test CentralTransport\ChipSecuritySystem\bin\Debug\ChipSecuritySystem.pdb
-D:\Programacion\Test CentralTransport\ChipSecuritySystem\obj\Debug\ChipSecuritySystem.csproj.AssemblyReference.cache
-D:\Programacion\Test CentralTransport\ChipSecuritySystem\obj\Debug\ChipSecuritySystem.csproj.CoreCompileInputs.cache
-D:\Programacion\Test CentralTransport\ChipSecuritySystem\obj\Debug\ChipSecuritySystem.exe
-D:\Programacion\Test CentralTransport\ChipSecuritySystem\obj\Debug\ChipSecuritySystem.pdb
